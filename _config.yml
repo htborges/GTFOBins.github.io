@@ -1,6 +1,7 @@
 title: GTFOBins
 
-url: https://gtfobins.org
+url: https://pentestad.github.io
+baseurl: /GTFOBins.github.io
 
 exclude:
   - /CNAME
